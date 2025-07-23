@@ -1,5 +1,6 @@
+![logo](https://github.com/Chandanaaa16/Chandanaaa16/blob/main/Github%20Banner.jpeg)
 <h1 align="center">Hi 👋, I'm CHANDANA P</h1>
-<h3 align="center">AIML Engineer</h3>
+<h3 align="center"> AIML Engineer</h3>
 <h3 align = "center"> It's not AI , It's AHI Amplified Human Intelligence </h3> 
 
 <img align = "right" alt = "Automation" width = "400" src = "https://zd-brightspot.s3.us-east-1.amazonaws.com/wp-content/uploads/2024/02/26091442/Shutterstock_1133982038.jpg">
